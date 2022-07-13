@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula (NIRCam Image)/+tiles",
+  "@id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula -- NIRCam Image/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {

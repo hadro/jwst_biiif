@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://hadro.github.io/jwst_biiif/_Southern Ring Nebula (NIRCam Image)/+tiles",
+  "@id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet -- NIRCam and MIRI Composite Image/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
@@ -20,11 +20,12 @@
         2,
         4,
         8,
-        16
+        16,
+        32
       ],
       "width": 256
     }
   ],
-  "width": 4833,
-  "height": 4501
+  "width": 12654,
+  "height": 12132
 }

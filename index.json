@@ -19,19 +19,19 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula (NIRCam and MIRI Composite Image)/STScI-01G7ETX4RC173Z3VY6RZZ535G6.tiff",
+                "id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula -- NIRCam and MIRI Composite Image/STScI-01G7ETX4RC173Z3VY6RZZ535G6.tiff",
                 "type": "Image",
                 "format": "image/tiff",
                 "label": {
                   "@none": [
-                    "_Cosmic Cliffs in the Carina Nebula (NIRCam and MIRI Composite Image)"
+                    "_Cosmic Cliffs in the Carina Nebula -- NIRCam and MIRI Composite Image"
                   ]
                 },
                 "width": 11264,
                 "height": 3904,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula (NIRCam and MIRI Composite Image)/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula -- NIRCam and MIRI Composite Image/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -44,7 +44,7 @@
       ],
       "label": {
         "@none": [
-          "_Cosmic Cliffs in the Carina Nebula (NIRCam and MIRI Composite Image)"
+          "_Cosmic Cliffs in the Carina Nebula -- NIRCam and MIRI Composite Image"
         ]
       },
       "width": 11264,
@@ -69,19 +69,19 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula (NIRCam Image)/STScI-01G7ETNMR8CBHQQ64R4CVA1E6T.tiff",
+                "id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula -- NIRCam Image/STScI-01G7ETNMR8CBHQQ64R4CVA1E6T.tiff",
                 "type": "Image",
                 "format": "image/tiff",
                 "label": {
                   "@none": [
-                    "_Cosmic Cliffs in the Carina Nebula (NIRCam Image)"
+                    "_Cosmic Cliffs in the Carina Nebula -- NIRCam Image"
                   ]
                 },
                 "width": 14575,
                 "height": 8441,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula (NIRCam Image)/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula -- NIRCam Image/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -94,7 +94,7 @@
       ],
       "label": {
         "@none": [
-          "_Cosmic Cliffs in the Carina Nebula (NIRCam Image)"
+          "_Cosmic Cliffs in the Carina Nebula -- NIRCam Image"
         ]
       },
       "width": 14575,
@@ -119,19 +119,19 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://hadro.github.io/jwst_biiif/_Southern Ring Nebula (NIRCam Image)/STScI-01G79R51118N21AAZ9MZ8XWWQ6.png",
+                "id": "https://hadro.github.io/jwst_biiif/_Southern Ring Nebula -- NIRCam Image/STScI-01G79R51118N21AAZ9MZ8XWWQ6.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
                   "@none": [
-                    "_Southern Ring Nebula (NIRCam Image)"
+                    "_Southern Ring Nebula -- NIRCam Image"
                   ]
                 },
                 "width": 4833,
                 "height": 4501,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Southern Ring Nebula (NIRCam Image)/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Southern Ring Nebula -- NIRCam Image/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -144,7 +144,7 @@
       ],
       "label": {
         "@none": [
-          "_Southern Ring Nebula (NIRCam Image)"
+          "_Southern Ring Nebula -- NIRCam Image"
         ]
       },
       "width": 4833,
@@ -169,19 +169,19 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet (MIRI Image)/STScI-01G7DBWJJF54AX1DDP8KJ6XCPQ.png",
+                "id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet -- MIRI Image/STScI-01G7DBWJJF54AX1DDP8KJ6XCPQ.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
                   "@none": [
-                    "_Stephans Quintet (MIRI Image)"
+                    "_Stephans Quintet -- MIRI Image"
                   ]
                 },
                 "width": 2444,
                 "height": 2049,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet (MIRI Image)/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet -- MIRI Image/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -194,7 +194,7 @@
       ],
       "label": {
         "@none": [
-          "_Stephans Quintet (MIRI Image)"
+          "_Stephans Quintet -- MIRI Image"
         ]
       },
       "width": 2444,
@@ -219,19 +219,19 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet (NIRCam and MIRI Composite Image)/STScI-01G7DAXJYYTYXCFSB8VQRK5X2F.tiff",
+                "id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet -- NIRCam and MIRI Composite Image/STScI-01G7DAXJYYTYXCFSB8VQRK5X2F.tiff",
                 "type": "Image",
                 "format": "image/tiff",
                 "label": {
                   "@none": [
-                    "_Stephans Quintet (NIRCam and MIRI Composite Image)"
+                    "_Stephans Quintet -- NIRCam and MIRI Composite Image"
                   ]
                 },
                 "width": 12654,
                 "height": 12132,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet (NIRCam and MIRI Composite Image)/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet -- NIRCam and MIRI Composite Image/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -244,7 +244,7 @@
       ],
       "label": {
         "@none": [
-          "_Stephans Quintet (NIRCam and MIRI Composite Image)"
+          "_Stephans Quintet -- NIRCam and MIRI Composite Image"
         ]
       },
       "width": 12654,
@@ -269,19 +269,19 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field (MIRI and NIRCam Images Side by Side)/STScI-01G7DDVJM97143B485EE5BE3N3.png",
+                "id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field -- MIRI and NIRCam Images Side by Side/STScI-01G7DDVJM97143B485EE5BE3N3.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
                   "@none": [
-                    "_Webbs First Deep Field (MIRI and NIRCam Images Side by Side)"
+                    "_Webbs First Deep Field -- MIRI and NIRCam Images Side by Side"
                   ]
                 },
                 "width": 6317,
                 "height": 4295,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field (MIRI and NIRCam Images Side by Side)/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field -- MIRI and NIRCam Images Side by Side/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -294,7 +294,7 @@
       ],
       "label": {
         "@none": [
-          "_Webbs First Deep Field (MIRI and NIRCam Images Side by Side)"
+          "_Webbs First Deep Field -- MIRI and NIRCam Images Side by Side"
         ]
       },
       "width": 6317,
@@ -319,19 +319,19 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field (NIRCam Image)/STScI-01G7DDBW5NNXTJV8PGHB0465QP.png",
+                "id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field -- NIRCam Image/STScI-01G7DDBW5NNXTJV8PGHB0465QP.png",
                 "type": "Image",
                 "format": "image/png",
                 "label": {
                   "@none": [
-                    "_Webbs First Deep Field (NIRCam Image)"
+                    "_Webbs First Deep Field -- NIRCam Image"
                   ]
                 },
                 "width": 4537,
                 "height": 4630,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field (NIRCam Image)/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field -- NIRCam Image/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -344,7 +344,7 @@
       ],
       "label": {
         "@none": [
-          "_Webbs First Deep Field (NIRCam Image)"
+          "_Webbs First Deep Field -- NIRCam Image"
         ]
       },
       "width": 4537,

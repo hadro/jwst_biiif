@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet (MIRI Image)/+tiles",
+  "@id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field -- MIRI and NIRCam Images Side by Side/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
@@ -19,11 +19,12 @@
         1,
         2,
         4,
-        8
+        8,
+        16
       ],
       "width": 256
     }
   ],
-  "width": 2444,
-  "height": 2049
+  "width": 6317,
+  "height": 4295
 }

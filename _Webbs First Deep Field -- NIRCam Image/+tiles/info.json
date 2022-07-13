@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field (MIRI and NIRCam Images Side by Side)/+tiles",
+  "@id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field -- NIRCam Image/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
@@ -25,6 +25,6 @@
       "width": 256
     }
   ],
-  "width": 6317,
-  "height": 4295
+  "width": 4537,
+  "height": 4630
 }
