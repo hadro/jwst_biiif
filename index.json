@@ -1,0 +1,267 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://06ddd8c3-e14e-4fb2-8d4b-7c1ecb19fb8c",
+	"@type": "sc:Manifest",
+	"label": "JWST Images July 2022",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "First images released from JWST",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/publicdomain/mark/1.0/",
+	"attribution": "NASA and the Space Telescope Science Institute (STScI)",
+	"sequences": [
+		{
+			"@id": "http://a1846362-2f0f-46b8-a126-b838b3e8a84a",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://d5ca7fbf-207e-46d7-8372-4829df7c527a",
+					"@type": "sc:Canvas",
+					"label": "Webb's First Deep Field (NIRCam Image)",
+					"height": 4630,
+					"width": 4537,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://68aa5dbe-e4c7-4628-88e6-beed468df8bf",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://hadro.github.io/jwst_biiif/Webbs_First_Deep_Field--NIRCam_Image/tiles/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://hadro.github.io/jwst_biiif/Webbs_First_Deep_Field--NIRCam_Image/tiles",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 4630,
+								"width": 4537
+							},
+							"on": "http://d5ca7fbf-207e-46d7-8372-4829df7c527a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ddb3119c-7dbe-492e-b793-98b37c75798f",
+					"@type": "sc:Canvas",
+					"label": "“Cosmic Cliffs” in the Carina Nebula (NIRCam Image)",
+					"height": 8441,
+					"width": 14575,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8b4b7c5f-ee64-4418-bdd6-e21a2cd89376",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://hadro.github.io/jwst_biiif/Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_Image/tiles/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://hadro.github.io/jwst_biiif/Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_Image/tiles",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 8441,
+								"width": 14575
+							},
+							"on": "http://ddb3119c-7dbe-492e-b793-98b37c75798f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b58e1e2c-0f33-496c-8235-10b0d844507f",
+					"@type": "sc:Canvas",
+					"label": "“Cosmic Cliffs” in the Carina Nebula (NIRCam and MIRI Composite Image)",
+					"height": 3904,
+					"width": 11264,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7e1a3cc5-ee9e-471c-8afd-f163a297551d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://hadro.github.io/jwst_biiif/Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_and_MIRI_Composite_Image/tiles/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://hadro.github.io/jwst_biiif/Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_and_MIRI_Composite_Image/tiles",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 3904,
+								"width": 11264
+							},
+							"on": "http://b58e1e2c-0f33-496c-8235-10b0d844507f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://2767002c-5883-441a-92c0-79f207189d1e",
+					"@type": "sc:Canvas",
+					"label": "Stephan's Quintet (NIRCam and MIRI Composite Image)",
+					"height": 12132,
+					"width": 12654,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4609009f-6257-4795-9bf3-839fbddf7fbb",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://hadro.github.io/jwst_biiif/Stephans_Quintet--NIRCam_and_MIRI_Composite_Image/tiles/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://hadro.github.io/jwst_biiif/Stephans_Quintet--NIRCam_and_MIRI_Composite_Image/tiles",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 12132,
+								"width": 12654
+							},
+							"on": "http://2767002c-5883-441a-92c0-79f207189d1e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://67bead15-1191-4b14-86a5-177292613f12",
+					"@type": "sc:Canvas",
+					"label": "Stephan's Quintet (MIRI Image)",
+					"height": 2049,
+					"width": 2444,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ed3ac0b4-2230-4fe3-b9fa-5717388987d0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://hadro.github.io/jwst_biiif/Stephans_Quintet--MIRI_Image/tiles/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://hadro.github.io/jwst_biiif/Stephans_Quintet--MIRI_Image/tiles",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 2049,
+								"width": 2444
+							},
+							"on": "http://67bead15-1191-4b14-86a5-177292613f12"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://dfea0300-3ce1-42ca-b886-3771304b5cb6",
+					"@type": "sc:Canvas",
+					"label": "Southern Ring Nebula (NIRCam Image)",
+					"height": 4501,
+					"width": 4833,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6f64dbd7-0780-47c2-9154-3173bd73e91a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://hadro.github.io/jwst_biiif/Southern_Ring_Nebula--NIRCam_Image/tiles/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://hadro.github.io/jwst_biiif/Southern_Ring_Nebula--NIRCam_Image/tiles",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 4501,
+								"width": 4833
+							},
+							"on": "http://dfea0300-3ce1-42ca-b886-3771304b5cb6"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://d5ca7fbf-207e-46d7-8372-4829df7c527a"
+	}
+}
