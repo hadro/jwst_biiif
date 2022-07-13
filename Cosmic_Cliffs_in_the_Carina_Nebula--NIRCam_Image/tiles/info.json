@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://example.com/iiif/tiles",
+  "@id": "https://hadro.github.io/jwst_biiif/Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_Image/tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {

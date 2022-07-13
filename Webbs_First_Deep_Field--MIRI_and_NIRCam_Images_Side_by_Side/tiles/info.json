@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://example.com/iiif/tiles",
+  "@id": "https://hadro.github.io/jwst_biiif/Webbs_First_Deep_Field--MIRI_and_NIRCam_Images_Side_by_Side/tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
