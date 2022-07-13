@@ -31,7 +31,7 @@
                 "height": 3904,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_and_MIRI_Composite_Image/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_and_MIRI_Composite_Image/tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -81,7 +81,7 @@
                 "height": 8441,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_Image/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_Image/tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -131,7 +131,7 @@
                 "height": 4501,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Southern_Ring_Nebula--NIRCam_Image/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Southern_Ring_Nebula--NIRCam_Image/tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -181,7 +181,7 @@
                 "height": 2049,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Stephans_Quintet--MIRI_Image/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Stephans_Quintet--MIRI_Image/tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -231,7 +231,7 @@
                 "height": 12132,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Stephans_Quintet--NIRCam_and_MIRI_Composite_Image/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Stephans_Quintet--NIRCam_and_MIRI_Composite_Image/tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -281,7 +281,7 @@
                 "height": 2049,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_test/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_test/tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -331,7 +331,7 @@
                 "height": 4295,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Webbs_First_Deep_Field--MIRI_and_NIRCam_Images_Side_by_Side/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Webbs_First_Deep_Field--MIRI_and_NIRCam_Images_Side_by_Side/tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -381,7 +381,7 @@
                 "height": 4630,
                 "service": [
                   {
-                    "@id": "https://hadro.github.io/jwst_biiif/_Webbs_First_Deep_Field--NIRCam_Image/+tiles",
+                    "@id": "https://hadro.github.io/jwst_biiif/_Webbs_First_Deep_Field--NIRCam_Image/tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
