@@ -1,0 +1,365 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://hadro.github.io/jwst_biiif/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hadro.github.io/jwst_biiif/_“Cosmic Cliffs” in the Carina Nebula (NIRCam and MIRI Composite Image)/STScI-01G7ETX4RC173Z3VY6RZZ535G6.tiff",
+                "type": "Image",
+                "format": "image/tiff",
+                "label": {
+                  "@none": [
+                    "_“Cosmic Cliffs” in the Carina Nebula (NIRCam and MIRI Composite Image)"
+                  ]
+                },
+                "width": 11264,
+                "height": 3904,
+                "service": [
+                  {
+                    "@id": "https://hadro.github.io/jwst_biiif/_“Cosmic Cliffs” in the Carina Nebula (NIRCam and MIRI Composite Image)/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_“Cosmic Cliffs” in the Carina Nebula (NIRCam and MIRI Composite Image)"
+        ]
+      },
+      "width": 11264,
+      "height": 3904,
+      "thumbnail": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/1/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hadro.github.io/jwst_biiif/_“Cosmic Cliffs” in the Carina Nebula (NIRCam Image)/STScI-01G7ETNMR8CBHQQ64R4CVA1E6T.tiff",
+                "type": "Image",
+                "format": "image/tiff",
+                "label": {
+                  "@none": [
+                    "_“Cosmic Cliffs” in the Carina Nebula (NIRCam Image)"
+                  ]
+                },
+                "width": 14575,
+                "height": 8441,
+                "service": [
+                  {
+                    "@id": "https://hadro.github.io/jwst_biiif/_“Cosmic Cliffs” in the Carina Nebula (NIRCam Image)/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_“Cosmic Cliffs” in the Carina Nebula (NIRCam Image)"
+        ]
+      },
+      "width": 14575,
+      "height": 8441,
+      "thumbnail": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/2/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/2/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hadro.github.io/jwst_biiif/_Southern Ring Nebula (NIRCam Image)/STScI-01G79R51118N21AAZ9MZ8XWWQ6.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "_Southern Ring Nebula (NIRCam Image)"
+                  ]
+                },
+                "width": 4833,
+                "height": 4501,
+                "service": [
+                  {
+                    "@id": "https://hadro.github.io/jwst_biiif/_Southern Ring Nebula (NIRCam Image)/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_Southern Ring Nebula (NIRCam Image)"
+        ]
+      },
+      "width": 4833,
+      "height": 4501,
+      "thumbnail": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/3/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet (MIRI Image)/STScI-01G7DBWJJF54AX1DDP8KJ6XCPQ.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "_Stephans Quintet (MIRI Image)"
+                  ]
+                },
+                "width": 2444,
+                "height": 2049,
+                "service": [
+                  {
+                    "@id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet (MIRI Image)/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_Stephans Quintet (MIRI Image)"
+        ]
+      },
+      "width": 2444,
+      "height": 2049,
+      "thumbnail": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/4",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/4/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet (NIRCam and MIRI Composite Image)/STScI-01G7DAXJYYTYXCFSB8VQRK5X2F.tiff",
+                "type": "Image",
+                "format": "image/tiff",
+                "label": {
+                  "@none": [
+                    "_Stephans Quintet (NIRCam and MIRI Composite Image)"
+                  ]
+                },
+                "width": 12654,
+                "height": 12132,
+                "service": [
+                  {
+                    "@id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet (NIRCam and MIRI Composite Image)/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_Stephans Quintet (NIRCam and MIRI Composite Image)"
+        ]
+      },
+      "width": 12654,
+      "height": 12132,
+      "thumbnail": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/5",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/5/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/5/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hadro.github.io/jwst_biiif/_Webb's First Deep Field (NIRCam Image)/STScI-01G7DDBW5NNXTJV8PGHB0465QP.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "_Webb's First Deep Field (NIRCam Image)"
+                  ]
+                },
+                "width": 4537,
+                "height": 4630,
+                "service": [
+                  {
+                    "@id": "https://hadro.github.io/jwst_biiif/_Webb's First Deep Field (NIRCam Image)/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/5"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_Webb's First Deep Field (NIRCam Image)"
+        ]
+      },
+      "width": 4537,
+      "height": 4630,
+      "thumbnail": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/6",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/6/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/6/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hadro.github.io/jwst_biiif/_Webb’s First Deep Field (MIRI and NIRCam Images Side by Side)/STScI-01G7DDVJM97143B485EE5BE3N3.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "_Webb’s First Deep Field (MIRI and NIRCam Images Side by Side)"
+                  ]
+                },
+                "width": 6317,
+                "height": 4295,
+                "service": [
+                  {
+                    "@id": "https://hadro.github.io/jwst_biiif/_Webb’s First Deep Field (MIRI and NIRCam Images Side by Side)/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/6"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_Webb’s First Deep Field (MIRI and NIRCam Images Side by Side)"
+        ]
+      },
+      "width": 6317,
+      "height": 4295,
+      "thumbnail": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "jwst_local"
+    ]
+  }
+}

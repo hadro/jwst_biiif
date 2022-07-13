@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet (NIRCam and MIRI Composite Image)/+tiles",
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "width": 256
+    }
+  ],
+  "width": 12654,
+  "height": 12132
+}
