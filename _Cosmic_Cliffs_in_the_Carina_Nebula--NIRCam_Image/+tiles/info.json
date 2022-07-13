@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://hadro.github.io/jwst_biiif/_Stephans Quintet -- NIRCam and MIRI Composite Image/+tiles",
+  "@id": "https://hadro.github.io/jwst_biiif/_Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_Image/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
@@ -26,6 +26,6 @@
       "width": 256
     }
   ],
-  "width": 12654,
-  "height": 12132
+  "width": 14575,
+  "height": 8441
 }

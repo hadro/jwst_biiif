@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula -- NIRCam and MIRI Composite Image/+tiles",
+  "@id": "https://hadro.github.io/jwst_biiif/_Stephans_Quintet--NIRCam_and_MIRI_Composite_Image/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
@@ -26,6 +26,6 @@
       "width": 256
     }
   ],
-  "width": 11264,
-  "height": 3904
+  "width": 12654,
+  "height": 12132
 }

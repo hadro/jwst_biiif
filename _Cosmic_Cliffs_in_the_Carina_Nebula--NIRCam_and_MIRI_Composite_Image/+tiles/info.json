@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://hadro.github.io/jwst_biiif/_Webbs First Deep Field -- NIRCam Image/+tiles",
+  "@id": "https://hadro.github.io/jwst_biiif/_Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_and_MIRI_Composite_Image/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
@@ -20,11 +20,12 @@
         2,
         4,
         8,
-        16
+        16,
+        32
       ],
       "width": 256
     }
   ],
-  "width": 4537,
-  "height": 4630
+  "width": 11264,
+  "height": 3904
 }
