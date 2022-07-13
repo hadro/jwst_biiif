@@ -1,17 +1,8 @@
 {
-  "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://hadro.github.io/jwst_biiif/_Webbs_First_Deep_Field--MIRI_and_NIRCam_Images_Side_by_Side/+tiles",
-  "profile": [
-    "http://iiif.io/api/image/2/level0.json",
-    {
-      "formats": [
-        "jpg"
-      ],
-      "qualities": [
-        "default"
-      ]
-    }
-  ],
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://example.com/iiif/tiles",
+  "type": "ImageService3",
+  "profile": "level0",
   "protocol": "http://iiif.io/api/image",
   "tiles": [
     {
@@ -19,10 +10,9 @@
         1,
         2,
         4,
-        8,
-        16
+        8
       ],
-      "width": 256
+      "width": 512
     }
   ],
   "width": 6317,

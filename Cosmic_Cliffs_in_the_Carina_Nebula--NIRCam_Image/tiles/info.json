@@ -1,17 +1,8 @@
 {
-  "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://hadro.github.io/jwst_biiif/_Cosmic_Cliffs_in_the_Carina_Nebula--NIRCam_Image/+tiles",
-  "profile": [
-    "http://iiif.io/api/image/2/level0.json",
-    {
-      "formats": [
-        "jpg"
-      ],
-      "qualities": [
-        "default"
-      ]
-    }
-  ],
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://example.com/iiif/tiles",
+  "type": "ImageService3",
+  "profile": "level0",
   "protocol": "http://iiif.io/api/image",
   "tiles": [
     {
@@ -20,10 +11,9 @@
         2,
         4,
         8,
-        16,
-        32
+        16
       ],
-      "width": 256
+      "width": 512
     }
   ],
   "width": 14575,
