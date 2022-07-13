@@ -269,6 +269,56 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
+                "id": "https://hadro.github.io/jwst_biiif/_test/STScI-01G7DBWJJF54AX1DDP8KJ6XCPQ.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "_test"
+                  ]
+                },
+                "width": 2444,
+                "height": 2049,
+                "service": [
+                  {
+                    "@id": "https://hadro.github.io/jwst_biiif/_test/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/5"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_test"
+        ]
+      },
+      "width": 2444,
+      "height": 2049,
+      "thumbnail": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/_test/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/6",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/6/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/6/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
                 "id": "https://hadro.github.io/jwst_biiif/_Webbs_First_Deep_Field--MIRI_and_NIRCam_Images_Side_by_Side/STScI-01G7DDVJM97143B485EE5BE3N3.png",
                 "type": "Image",
                 "format": "image/png",
@@ -287,7 +337,7 @@
                   }
                 ]
               },
-              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/5"
+              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/6"
             }
           ]
         }
@@ -307,15 +357,15 @@
       ]
     },
     {
-      "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/6",
+      "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/7",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/6/annotationpage/0",
+          "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/7/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/6/annotation/0",
+              "id": "https://hadro.github.io/jwst_biiif/index.json/canvas/7/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -337,7 +387,7 @@
                   }
                 ]
               },
-              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/6"
+              "target": "https://hadro.github.io/jwst_biiif/index.json/canvas/7"
             }
           ]
         }
