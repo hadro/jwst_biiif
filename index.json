@@ -16,12 +16,7 @@
 		{
 			"@id": "http://a1846362-2f0f-46b8-a126-b838b3e8a84a",
 			"@type": "sc:Sequence",
-			"label": [
-				{
-					"@value": "Normal Sequence",
-					"@language": "en"
-				}
-			],
+			"label": "Normal Sequence",
 			"canvases": [
 				{
 					"@id": "http://d5ca7fbf-207e-46d7-8372-4829df7c527a",
@@ -263,5 +258,6 @@
 	"structures": [],
 	"thumbnail": {
 		"@id": "http://d5ca7fbf-207e-46d7-8372-4829df7c527a"
-	}
+	},
+	"viewingHint": "individuals"
 }
