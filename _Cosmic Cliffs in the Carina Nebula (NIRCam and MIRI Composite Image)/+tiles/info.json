@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://hadro.github.io/jwst_biiif/_Webb’s First Deep Field (MIRI and NIRCam Images Side by Side)/+tiles",
+  "@id": "https://hadro.github.io/jwst_biiif/_Cosmic Cliffs in the Carina Nebula (NIRCam and MIRI Composite Image)/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
@@ -20,11 +20,12 @@
         2,
         4,
         8,
-        16
+        16,
+        32
       ],
       "width": 256
     }
   ],
-  "width": 6317,
-  "height": 4295
+  "width": 11264,
+  "height": 3904
 }
